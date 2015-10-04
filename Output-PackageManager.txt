@@ -1,0 +1,9 @@
+﻿Attempting to gather dependencies information for package 'NUnit.2.6.4' with respect to project 'WebApplication1', targeting '.NETFramework,Version=v4.5.2'
+Attempting to resolve dependencies for package 'NUnit.2.6.4' with DependencyBehavior 'Lowest'
+Resolving actions to install package 'NUnit.2.6.4'
+Resolved actions to install package 'NUnit.2.6.4'
+Adding package 'NUnit.2.6.4' to folder 'C:\UserData\NextGen\NextPay\New\packages'
+Added package 'NUnit.2.6.4' to folder 'C:\UserData\NextGen\NextPay\New\packages'
+Added package 'NUnit.2.6.4' to 'packages.config'
+Successfully installed 'NUnit 2.6.4' to WebApplication1
+========== Finished ==========
